@@ -61,6 +61,7 @@ public class TeamActivity extends Activity {
         setTeamMember("Roger Truttmann", getString(R.string.designer_title), "ROGERdotT",  R.drawable.roger);
         setTeamMember("SuperDroidBond", getString(R.string.developer_title), "SuperDroidBond",  R.drawable.bond);
 
+        setTeamMember("SuperDroidBond", getString(R.string.developer_title), "SuperDroidBond",  R.drawable.bond);
 
         ListAdapter mAdapter = new ListAdapter(mList);
         mRecycleview.setAdapter(mAdapter);
