@@ -886,7 +886,7 @@
         <item>Gender Female</item>
         <item>Gender Male-Female</item>
         <item>Guitar Electric</item>
-        <item>@string/status_bar_logo_style_emoticon_dead</item>
+        <item>Emoticon_dead</item>
 
     </string-array>
 
