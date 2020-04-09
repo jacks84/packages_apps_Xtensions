@@ -886,6 +886,8 @@
         <item>Gender Female</item>
         <item>Gender Male-Female</item>
         <item>Guitar Electric</item>
+        <item>@string/status_bar_logo_style_emoticon_dead</item>
+
     </string-array>
 
     <string-array name="status_bar_logo_style_values" translatable="false">
@@ -923,6 +925,7 @@
         <item>31</item>
         <item>32</item>
         <item>33</item>
+        <item>34</item>
     </string-array>
 
     <!-- Status bar - Battery custom charging symbol -->
