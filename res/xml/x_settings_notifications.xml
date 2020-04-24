@@ -61,7 +61,6 @@
             interval="100"
             unitsLeft=""
             unitsRight="ms" />
-    </PreferenceCategory>
 
     <PreferenceCategory
         android:key="light_cat"
