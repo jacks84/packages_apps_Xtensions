@@ -66,7 +66,8 @@
     <PreferenceCategory
         android:key="light_cat"
         android:title="@string/light_settings_header" >
-
+      <Preference />
+        
         <Preference
             android:key="notification_light"
             android:title="@string/notification_light_settings"  
