@@ -1148,6 +1148,7 @@
         <item>@string/fod_recog_animation_miui_pulse_white</item>
         <item>@string/fod_recog_animation_miui_rhythm</item>
         <item>@string/fod_recog_animation_op_cosmos</item>
+        <item>@string/fod_recog_animation_op_energy</item>
         <item>@string/fod_recog_animation_op_mclaren</item>
         <item>@string/fod_recog_animation_op_stripe</item>
         <item>@string/fod_recog_animation_op_wave</item>
@@ -1175,7 +1176,8 @@
         <item>13</item>
         <item>14</item>
         <item>15</item>
-    </string-array>
+        <item>16</item>
+        </string-array>
 
     <!-- Notification ticker -->
      <string-array name="ticker_animation_mode_entries" translatable="false">
