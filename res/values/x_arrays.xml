@@ -1181,7 +1181,6 @@
     </string-array>
 
     <string-array name="fod_pressed_state_values" translatable="false">
-@@ -214,6 +218,10 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
